@@ -2921,7 +2921,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../../atoimg/202201.jpg);
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -2966,6 +2966,7 @@
 				color: #FFF;
 				text-decoration: none;
 				line-height: 1rem;
+
 			}
 
 			#header > .logo span {
@@ -2973,6 +2974,7 @@
 				font-size: 1rem;
 				display: block;
 				color: rgba(255, 255, 255, 0.65);
+				padding-top: 5px;
 			}
 
 	@media screen and (max-width: 1280px) {
